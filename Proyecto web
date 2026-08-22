@@ -1,0 +1,601 @@
+Crea una página web educativa completa, funcional, accesible, interactiva, responsiva y visualmente atractiva titulada:
+
+“Paso a Paso: Leo Puerto Rico”
+
+Subtítulo:
+“Sonidos, sílabas, palabras y frases para aprender a leer con confianza.”
+
+AUTORA Y DATOS ACADÉMICOS:
+- Nombre: Melanie Oms Castillo
+- Unidad académica: Programa Graduado en Educación
+- Universidad: Universidad del Sagrado Corazón
+- Curso: EDU 685 — Diseño web para la educación
+- Sección: [PENDIENTE: insertar sección del curso]
+- Profesora: [PENDIENTE: insertar nombre de profesora]
+- Fecha: [PENDIENTE: insertar día/mes/año]
+- Proyecto final: Proyecto de Desarrollo de Página Web Educativa
+
+IMPORTANTE:
+- El sitio debe estar completamente en español de Puerto Rico.
+- Crea una aplicación web real y navegable, no una maqueta estática.
+- Debe funcionar en computadora, tableta y teléfono móvil.
+- Genera código limpio, semántico y editable.
+- Usa HTML5, CSS3 y JavaScript ligero.
+- No uses marcos pesados, bases de datos externas, registro obligatorio, anuncios, rastreo, analítica ni pagos.
+- No recopiles, transmitas ni almacenes en línea información identificable de estudiantes.
+- Si guardas progreso o resultados de práctica, utiliza solamente localStorage del navegador y muestra un aviso de privacidad.
+- No inventes enlaces, referencias, fotos, autores, resultados de estudiantes ni datos académicos.
+- Deja los campos pendientes claramente identificados como [PENDIENTE].
+- No uses fotografías reales de estudiantes.
+- No incluyas texto dentro de las imágenes; todo texto debe ser HTML editable.
+- Si se usan ilustraciones creadas con inteligencia artificial, incluir una atribución visible en el pie de página:
+  “Ilustraciones creadas con inteligencia artificial para este recurso educativo.”
+- Incluir también esta declaración:
+  “Las herramientas de inteligencia artificial se utilizaron como apoyo para la ideación, generación inicial de código e ilustraciones. El contenido pedagógico, las decisiones de diseño, la selección de recursos, la revisión de accesibilidad y la validación final corresponden a Melanie Oms Castillo.”
+
+CONTEXTO Y POBLACIÓN:
+La página está dirigida principalmente a estudiantes de tercero a quinto grado de escuela elemental que requieren apoyos educativos significativos en lectoescritura, incluyendo estudiantes con discapacidad intelectual. El recurso debe respetar la diversidad, mantener altas expectativas y ofrecer aprendizaje explícito, claro, concreto, visual, gradual y repetible.
+
+La página no sustituye la enseñanza directa, la evaluación profesional, los servicios relacionados, los apoyos individualizados ni el Programa Educativo Individualizado. Debe funcionar como un recurso complementario para la práctica guiada con la maestra, asistente, especialista o familia.
+
+PROPÓSITO GENERAL:
+Facilitar el aprendizaje inicial de la lectura en español mediante actividades accesibles y culturalmente pertinentes que desarrollen:
+- Reconocimiento de sonidos.
+- Asociación fonema-grafema.
+- Combinación de consonantes y vocales.
+- Lectura de sílabas directas.
+- Lectura de palabras concretas.
+- Comprensión de frases cortas.
+- Seguridad, autonomía y motivación para leer.
+
+OBJETIVOS ESPECÍFICOS:
+Al utilizar el sitio, el estudiante podrá:
+1. Reconocer visual y auditivamente las vocales a, e, i, o, u.
+2. Relacionar consonantes con las vocales para formar sílabas directas.
+3. Leer sílabas frecuentes de manera guiada.
+4. Identificar palabras cortas vinculadas con imágenes concretas.
+5. Seleccionar la palabra o imagen que corresponde a una sílaba, palabra o frase.
+6. Leer frases simples y responder una pregunta básica de comprensión.
+7. Recibir retroalimentación inmediata, positiva, clara y no punitiva.
+8. Repetir actividades sin penalización y con diferentes niveles de apoyo.
+
+METODOLOGÍA DIDÁCTICA:
+Utiliza enseñanza explícita y práctica guiada:
+- “Miro”
+- “Escucho”
+- “Lo hacemos juntos”
+- “Yo practico”
+- “Lo intento otra vez”
+- “Celebro mi esfuerzo”
+
+Cada actividad debe presentar una sola tarea principal por pantalla.
+No presentes más de tres opciones de respuesta.
+No uses cronómetros, conteos regresivos, penalizaciones, tablas competitivas ni sonidos automáticos.
+Permite repetir las actividades todas las veces necesarias.
+La retroalimentación debe reconocer el esfuerzo y orientar el siguiente intento.
+
+Ejemplos de retroalimentación:
+- “¡Muy bien! Escuchaste y encontraste la sílaba correcta.”
+- “¡Buen intento! Escuchemos el sonido otra vez.”
+- “Vamos paso a paso. Mira la letra y escucha su sonido.”
+- “¡Excelente esfuerzo! Puedes practicar otra vez.”
+- “Lo logramos juntos. Sigamos con calma.”
+
+LÍNEA VISUAL Y CULTURAL PUERTORRIQUEÑA:
+La estética debe representar la calidez, identidad y riqueza cultural de Puerto Rico sin usar estereotipos, caricaturas ofensivas ni exceso de elementos decorativos.
+
+Utiliza una paleta accesible inspirada en Puerto Rico:
+- Azul marino profundo: #17354A
+- Azul cielo: #B9E1F2
+- Blanco crema: #FFFDF7
+- Coral suave: #E98976
+- Terracota: #B85D4B
+- Verde hoja: #4F8A69
+- Amarillo cálido: #F2C75C
+
+Usa detalles visuales sencillos y culturalmente pertinentes:
+- Coquí.
+- Mango.
+- Palma.
+- Mar y olas suaves.
+- Casita de madera o casita criolla.
+- Güiro.
+- Tambor de bomba.
+- Vejigante.
+- Plátano.
+- Flor de maga.
+- Paisajes costeros o montañosos.
+- Elementos naturales de Puerto Rico.
+
+IMPORTANTE SOBRE LAS IMÁGENES:
+- Cada imagen debe ser clara, simple y relacionada directamente con la actividad.
+- Usar una imagen por concepto, sobre fondos sencillos y poco cargados.
+- Todas las imágenes deben tener texto alternativo descriptivo editable.
+- No usar imágenes solo como decoración si pueden distraer de la tarea.
+- No depender solo del color, sonido o animación para comunicar información.
+- Mostrar una leyenda visible en el sitio:
+  “Las ilustraciones presentan elementos culturales puertorriqueños y fueron creadas con inteligencia artificial para este recurso educativo.”
+
+VOZ FEMENINA:
+Integra una voz femenina, cálida, pausada y agradable para leer opcionalmente las instrucciones, letras, sílabas, palabras, frases y retroalimentación.
+
+REQUISITOS PARA LA VOZ:
+- La voz nunca debe activarse automáticamente.
+- Incluir un botón grande y visible: “Escuchar”.
+- Incluir un botón: “Repetir”.
+- Incluir un interruptor: “Sonido activado / Sonido apagado”.
+- Incluir transcripción visible de toda instrucción y de todo audio.
+- Si el navegador no admite una voz femenina en español, mostrar el mensaje:
+  “La voz en español depende de las opciones disponibles en este dispositivo. Puedes leer las instrucciones en pantalla o pedir apoyo a una persona adulta.”
+- Usar SpeechSynthesis del navegador si está disponible, sin depender de servicios externos.
+- Intentar usar una voz en español, preferentemente con voz femenina cuando el dispositivo la ofrezca.
+- Permitir controlar la velocidad de lectura: lenta, media y normal.
+- Mantener un tono amable y alentador.
+
+CARTILLA FONÉTICA:
+Integra mi cartilla como recurso complementario, sin incrustar el flipbook automáticamente.
+
+Título de tarjeta:
+“Cartilla fonética interactiva”
+
+Texto:
+“Puedes usar esta cartilla junto con las actividades de la página para practicar sonidos, letras, sílabas y palabras con apoyo visual.”
+
+Botón:
+“Abrir cartilla fonética interactiva”
+
+Enlace:
+https://heyzine.com/flip-book/c7b91e911f.html
+
+Texto visible:
+“Contraseña de acceso: 5982”
+
+Aviso:
+“Se abre en una pestaña nueva. Para apoyar el acceso universal, se recomienda disponer también de una versión descargable o alternativa accesible.”
+
+El enlace debe abrirse en una pestaña nueva con target=_blank y rel=noopener noreferrer.
+
+ESTRUCTURA DE NAVEGACIÓN:
+Crea un menú fijo, simple, accesible y adaptable para móviles con estas secciones:
+1. Inicio
+2. Mi ruta de lectura
+3. Sonidos y letras
+4. Sílabas
+5. Palabras
+6. Frases
+7. Mi biblioteca
+8. Cartilla fonética
+9. Para la maestra y familia
+10. Mi progreso
+11. Accesibilidad
+12. Créditos y referencias
+
+También incluir:
+- Enlace “Saltar al contenido principal”.
+- Menú móvil con botón visible.
+- Botón “Volver al inicio”.
+- Indicador de la sección actual.
+- Navegación con teclado completa.
+
+PÁGINA DE INICIO:
+Incluir:
+- Título principal: “Paso a Paso: Leo Puerto Rico”.
+- Subtítulo: “Sonidos, sílabas, palabras y frases para aprender a leer con confianza.”
+- Mensaje de bienvenida:
+  “Aquí aprendemos paso a paso. Podemos mirar, escuchar, practicar y volver a intentarlo todas las veces que necesitemos.”
+- Botón principal grande: “Comenzar mi ruta de lectura”.
+- Botón secundario: “Escuchar bienvenida”.
+- Cuatro tarjetas grandes:
+  1. “Sonidos y letras”
+  2. “Sílabas”
+  3. “Palabras”
+  4. “Frases”
+- Nota positiva:
+  “Puedes practicar con calma. Cada intento es parte del aprendizaje.”
+- Una ilustración de portada culturalmente pertinente, por ejemplo un coquí en un entorno natural puertorriqueño, sin texto dentro de la imagen.
+- Leyenda de la imagen con texto alternativo y atribución de IA.
+
+SECCIÓN “MI RUTA DE LECTURA”:
+Crea una ruta visual de progreso no competitiva con seis pasos:
+1. Escucho y miro el sonido.
+2. Relaciono el sonido y la letra.
+3. Formo sílabas.
+4. Leo palabras.
+5. Leo frases cortas.
+6. Cuento lo que entendí.
+
+Cada paso debe:
+- Tener icono e información textual.
+- Permitir entrar directamente a la actividad.
+- Indicar “Listo para practicar”, “En práctica” o “Completado” sin usar únicamente color.
+- Guardar progreso localmente en el dispositivo.
+- Incluir botón “Practicar de nuevo”.
+- No mostrar puntajes competitivos.
+
+SECCIÓN “SONIDOS Y LETRAS”:
+Crear actividades interactivas para cada consonante del español de Puerto Rico combinada con las vocales a, e, i, o, u.
+
+Organiza las consonantes en grupos para reducir carga cognitiva:
+Grupo 1: m, p, s, l
+Grupo 2: t, n, d, f
+Grupo 3: r, rr, b, v
+Grupo 4: c, q, g, j
+Grupo 5: h, ch, y, ll, ñ
+Grupo 6: k, w, x, z
+
+IMPORTANTE:
+- Explica de forma breve y respetuosa que algunas letras pueden representar sonidos distintos según la palabra y el contexto.
+- Para el nivel inicial, prioriza sílabas regulares y de pronunciación directa.
+- No presentar todas las consonantes a la vez. Mostrar una familia o grupo por actividad.
+- Permitir que la maestra active o desactive grupos desde el Modo maestra.
+
+Para cada consonante, crear una tarjeta con:
+- Letra grande en mayúscula y minúscula.
+- Botón “Escuchar el sonido”.
+- Una imagen concreta relacionada con una palabra modelo.
+- La palabra modelo escrita en HTML.
+- Botón “Ver ejemplo”.
+- Botón “Practicar otra vez”.
+- Instrucción de un paso:
+  “Escucha. Mira la letra. Selecciona la respuesta.”
+
+Ejemplos de asociación culturalmente pertinentes:
+- M: mango, mano, mapa.
+- P: palma, pato, pan.
+- S: sol, sopa, sala.
+- L: luna, lápiz, limón.
+- T: tambor, taza, tela.
+- N: nido, nube, niña.
+- D: dado, dedo, dulce.
+- F: flor, faro, familia.
+- R: rana, remo, río.
+- B: barco, bomba, bola.
+- C: casa, coco, cama.
+- G: gato, gorra, guagua.
+- J: jugo, jaiba, jardín.
+- CH: chinchorro, chocolate, chaqueta.
+- Ñ: ñame, niño.
+- Y: yuca, yoyo.
+- LL: lluvia, llave.
+- H: helado, hoja.
+- Q: queso.
+- V: vela, vaso.
+- Z: zapato.
+- K: koala, kilo.
+- W: wifi, wafle.
+- X: xilófono.
+
+Cuando una palabra modelo sea menos común, usar una breve definición visual o reemplazarla desde el Modo maestra.
+
+ACTIVIDAD DE SONIDO:
+Por cada consonante, ofrecer una actividad de selección de máximo tres opciones:
+Pregunta ejemplo:
+“¿Cuál letra hace el sonido /m/?”
+Opciones: M, P, S.
+
+Al responder:
+- Si es correcta: mostrar mensaje positivo, icono no dependiente de color, animación muy discreta y opcional, y botón “Continuar”.
+- Si necesita apoyo: mostrar “Intentémoslo otra vez. Escucha el sonido y mira la letra.” y ofrecer “Escuchar de nuevo” y “Ver ejemplo”.
+- No mostrar “incorrecto” en rojo ni penalizar.
+
+SECCIÓN “SÍLABAS”:
+Crear una herramienta interactiva para combinar consonantes y vocales.
+
+Incluir todas las combinaciones de consonante + vocal según los grupos activados:
+MA, ME, MI, MO, MU
+PA, PE, PI, PO, PU
+SA, SE, SI, SO, SU
+LA, LE, LI, LO, LU
+TA, TE, TI, TO, TU
+NA, NE, NI, NO, NU
+DA, DE, DI, DO, DU
+FA, FE, FI, FO, FU
+RA, RE, RI, RO, RU
+BA, BE, BI, BO, BU
+VA, VE, VI, VO, VU
+CA, CE, CI, CO, CU
+QUE, QUI
+GA, GE, GI, GO, GU
+GUE, GUI
+JA, JE, JI, JO, JU
+CHA, CHE, CHI, CHO, CHU
+ÑA, ÑE, ÑI, ÑO, ÑU
+YA, YE, YI, YO, YU
+LLA, LLE, LLI, LLO, LLU
+HA, HE, HI, HO, HU
+ZA, ZE, ZI, ZO, ZU
+KA, KE, KI, KO, KU
+WA, WE, WI, WO, WU
+XA, XE, XI, XO, XU
+
+Para las combinaciones menos frecuentes o que requieran explicaciones de pronunciación, incluir una nota solamente en el Modo maestra, no recargar la pantalla del estudiante.
+
+Actividades:
+1. “Construyo una sílaba”
+- Seleccionar consonante y vocal.
+- Mostrar visualmente: M + A = MA.
+- Botón “Escuchar MA”.
+- Botón “Intentar otra combinación”.
+
+2. “Completa la palabra”
+- Presentar una imagen y una palabra con una sílaba faltante.
+- Máximo tres opciones de sílaba.
+- Ejemplo: _no con imagen de mano; opciones MA, PA, SA.
+- Para evitar dificultades, todas las palabras deben ser editables desde Modo maestra.
+
+3. “Encuentra la sílaba”
+- Mostrar una sílaba objetivo y tres tarjetas.
+- El estudiante selecciona la sílaba que escucha o ve.
+
+SECCIÓN “PALABRAS”:
+Usar palabras cortas, concretas, frecuentes y culturalmente pertinentes. Evitar infantilizar a estudiantes de tercero a quinto grado.
+
+Crear listas editables de palabras por nivel:
+Nivel 1:
+mamá, mano, mapa, mesa, mimo, pato, pala, pana, sopa, sala, sol, sal, luna, lata, tela, nene, nido, dado, dedo, flor, faro.
+
+Nivel 2:
+mango, palma, bomba, barco, coco, casa, yuca, ñame, guagua, jaiba, güiro, tambor, playa, ola, árbol, río.
+
+Para cada palabra:
+- Mostrar imagen simple y concreta.
+- Mostrar palabra con tipografía grande.
+- Botón “Escuchar palabra”.
+- Botón “Leer conmigo”.
+- Botón “Practicar otra vez”.
+
+Actividades:
+1. “Une palabra e imagen”
+- Máximo tres opciones.
+2. “Ordena las sílabas”
+- Ejemplo: MA + NO = MANO.
+3. “Escucha y selecciona”
+- Escuchar una palabra y escoger la imagen correspondiente.
+4. “Lee la palabra”
+- Mostrar palabra y permitir que el estudiante escuche un modelo, luego intente leerla.
+
+SECCIÓN “FRASES”:
+Presentar una frase corta por pantalla, con imagen concreta y opción de audio.
+
+Ejemplos editables:
+- “Mamá me ama.”
+- “La mano saluda.”
+- “El sol sale.”
+- “La palma se mueve.”
+- “La guagua pasa.”
+- “El coquí canta.”
+- “La ola sube.”
+- “El mango está maduro.”
+- “La niña lee.”
+- “El niño mira el mapa.”
+
+Después de cada frase, presentar solo una pregunta de comprensión:
+- “¿Qué aparece en la frase?”
+- “¿Quién está en la frase?”
+- “¿Qué hace el personaje?”
+- “¿Cuál imagen corresponde?”
+
+Usar máximo tres opciones. Permitir escuchar la frase nuevamente.
+
+SECCIÓN “MI BIBLIOTECA”:
+Crear mini-libros digitales con cuatro a cinco páginas cada uno.
+
+Mini-libro 1:
+Título: “El coquí y la luna”
+- Página 1: “El coquí mira la luna.”
+- Página 2: “El coquí salta en la hoja.”
+- Página 3: “La luna brilla.”
+- Página 4: “El coquí canta.”
+- Página 5: “Fin. ¿Qué hizo el coquí?”
+
+Mini-libro 2:
+Título: “El mango de la palma”
+- Página 1: “Hay un mango en la palma.”
+- Página 2: “El mango está maduro.”
+- Página 3: “Mamá mira el mango.”
+- Página 4: “El mango cae.”
+- Página 5: “Fin. ¿Dónde estaba el mango?”
+
+Cada mini-libro debe:
+- Tener una frase por página.
+- Tener una imagen concreta con texto alternativo.
+- Botones grandes: “Anterior”, “Siguiente”, “Escuchar”, “Volver a leer”.
+- Incluir una pregunta de comprensión al final.
+- Permitir añadir más mini-libros desde Modo maestra.
+
+SECCIÓN “CARTILLA FONÉTICA”:
+Incluir la tarjeta descrita anteriormente con el enlace de Heyzine, contraseña 5982 y aviso de accesibilidad.
+
+SECCIÓN “MI PROGRESO”:
+Crear una página de seguimiento local, privada y no competitiva.
+
+Debe incluir:
+- Habilidades practicadas: sonidos, sílabas, palabras, frases y biblioteca.
+- Cantidad de actividades completadas.
+- Última fecha de práctica.
+- Mensajes de progreso centrados en esfuerzo, no en comparación.
+- Botón “Practicar otra vez”.
+- Botón “Borrar mi progreso de este dispositivo”.
+- Aviso:
+  “Tu progreso se guarda solamente en este dispositivo. No se recopilan nombres, diagnósticos ni información personal.”
+
+No mostrar calificaciones numéricas como elemento principal.
+Sí mostrar información para la maestra dentro de Modo maestra:
+- Actividad practicada.
+- Respuestas correctas.
+- Intentos.
+- Tipo de apoyo utilizado: visual, auditivo, verbal, modelado o independiente.
+- Observación breve editable.
+- Próximo paso sugerido.
+
+SECCIÓN “PARA LA MAESTRA Y FAMILIA”:
+Crear una guía didáctica clara con estas partes:
+
+1. “¿Para quién es este recurso?”
+Texto:
+“Este recurso está dirigido a estudiantes de tercero a quinto grado que requieren una práctica estructurada y accesible de lectura inicial. Puede utilizarse con estudiantes con discapacidad intelectual u otras necesidades de apoyo, siempre considerando sus fortalezas, su sistema de comunicación, sus metas educativas y los apoyos establecidos.”
+
+2. “Cómo usar la página en 10 minutos”
+- Elegir una habilidad.
+- Presentar una actividad.
+- Modelar primero.
+- Practicar juntos.
+- Permitir respuesta.
+- Ofrecer retroalimentación positiva.
+- Repetir si es necesario.
+- Cerrar con éxito.
+
+3. “Adaptaciones posibles”
+- Reducir opciones a dos.
+- Presentar una actividad a la vez.
+- Usar señalamiento, respuesta verbal, selección con mouse, pantalla táctil o comunicación aumentativa.
+- Repetir audio y modelo.
+- Aumentar tamaño del texto.
+- Activar alto contraste.
+- Usar audífonos si el estudiante los tolera.
+- Ofrecer pausas.
+- Seleccionar menos sílabas o palabras.
+- Ajustar la velocidad de la voz.
+
+4. “Registro de observación”
+Crear una tabla editable que se guarde localmente:
+- Fecha.
+- Habilidad practicada.
+- Nivel de apoyo.
+- Respuesta observada.
+- Próximo paso.
+- Botón “Guardar en este dispositivo”.
+- Botón “Exportar resumen”.
+- Aviso de privacidad:
+  “No escriba nombres completos, diagnósticos ni información confidencial del estudiante.”
+
+5. “Limitaciones y uso responsable”
+Texto:
+“Este recurso complementa la instrucción directa y debe ajustarse a las necesidades de cada estudiante. No reemplaza la evaluación educativa, los servicios especializados, el Programa Educativo Individualizado ni el juicio profesional del personal docente y de las familias.”
+
+MODO MAESTRA:
+Crear un “Modo maestra” con acceso local mediante una confirmación sencilla, no autenticación real.
+
+Permitir:
+- Activar o desactivar grupos de consonantes.
+- Editar letras, sílabas, palabras, frases e imágenes.
+- Editar texto alternativo de imágenes.
+- Cambiar las instrucciones y mensajes de retroalimentación.
+- Crear nuevas actividades.
+- Añadir mini-libros.
+- Ajustar número máximo de opciones de respuesta.
+- Ver y borrar datos de progreso local.
+- Exportar registros locales como CSV o texto.
+- Restablecer contenido de ejemplo.
+
+Mostrar una advertencia:
+“Modo maestra: revise todo contenido antes de utilizarlo con estudiantes. No ingrese información confidencial.”
+
+ACCESIBILIDAD OBLIGATORIA:
+Aplicar prácticas de accesibilidad digital de alto nivel:
+
+- Declarar lang=es.
+- Usar HTML semántico: header, nav, main, section, article, aside y footer.
+- Un solo H1 por página y jerarquía correcta de H2 y H3.
+- Enlace “Saltar al contenido principal”.
+- Navegación por teclado en todas las actividades.
+- Estados de foco visibles y contrastantes.
+- Contraste de color mínimo adecuado.
+- Botones con etiquetas textuales claras.
+- No usar solo iconos; cada icono debe tener texto.
+- Imágenes con atributos ALT descriptivos y editables.
+- Texto grande: mínimo 20px en actividades para estudiantes.
+- Espaciado amplio entre botones.
+- Áreas táctiles grandes.
+- Botones para “Aumentar texto”, “Reducir texto” y “Alto contraste”.
+- Respetar prefers-reduced-motion.
+- No usar animaciones automáticas.
+- No reproducir audio automáticamente.
+- Audios con guiones/transcripciones visibles.
+- Mensajes de retroalimentación accesibles mediante aria-live.
+- Errores y aciertos comunicados con texto, icono y no solo color.
+- Compatible con lectores de pantalla.
+- Diseño adaptable a teléfono, tableta y computadora.
+- Formularios con etiquetas visibles y validación accesible.
+- Incluir declaración de accesibilidad.
+
+EVALUACIÓN Y RETROALIMENTACIÓN:
+La página debe evaluar aprendizaje de forma formativa y respetuosa.
+
+Para cada actividad:
+- Registrar de manera local la habilidad practicada, respuesta, intentos y nivel de apoyo seleccionado por la maestra.
+- Ofrecer retroalimentación inmediata, clara y positiva.
+- Dar opción de repetir sin penalización.
+- Mostrar pistas graduales:
+  1. Escuchar otra vez.
+  2. Ver ejemplo.
+  3. Reducir opciones.
+  4. Practicar junto a una persona adulta.
+- Mostrar para la maestra un resumen de progreso local, sin comparaciones entre estudiantes.
+
+Crear al final de cada módulo una actividad breve de repaso:
+- Sonidos: 3 preguntas.
+- Sílabas: 3 preguntas.
+- Palabras: 3 preguntas.
+- Frases: 2 preguntas.
+- Mini-libro: 1 pregunta de comprensión.
+
+La evaluación debe permitir:
+- Guardar resultados solo en localStorage.
+- Exportar resumen para la maestra en CSV o formato imprimible.
+- Borrar datos locales.
+- No enviar datos a internet.
+
+PÁGINA “ACCESIBILIDAD”:
+Incluir esta declaración:
+
+“Paso a Paso: Leo Puerto Rico ha sido diseñado para apoyar una experiencia de aprendizaje accesible, clara y flexible. El sitio incluye navegación por teclado, estructura semántica, texto alternativo para imágenes, controles para ajustar el tamaño del texto, alto contraste, instrucciones visibles, transcripciones de audio y opciones para repetir actividades. Las actividades se presentan paso a paso, con un máximo de tres opciones por pantalla y sin presión de tiempo.
+
+Reconocemos que cada estudiante aprende de manera diferente. Este recurso debe adaptarse a las fortalezas, necesidades, idioma, sistema de comunicación y apoyos establecidos para cada estudiante. La observación docente, la colaboración con las familias y los ajustes individualizados son esenciales para su uso responsable.”
+
+Incluir lista de herramientas:
+- Aumentar texto.
+- Reducir texto.
+- Alto contraste.
+- Navegación por teclado.
+- Instrucciones escritas.
+- Audio opcional con transcripción.
+- Actividades repetibles.
+- Diseño adaptable.
+- Modo maestra.
+- Borrar datos locales.
+
+PÁGINA “CRÉDITOS Y REFERENCIAS”:
+Incluir:
+- Título del proyecto.
+- Nombre: Melanie Oms Castillo.
+- Programa Graduado en Educación.
+- Universidad del Sagrado Corazón.
+- EDU 685 — Diseño web para la educación.
+- Sección y profesora: [PENDIENTE].
+- Fecha: [PENDIENTE].
+- Enlace a cartilla fonética: https://heyzine.com/flip-book/c7b91e911f.html
+- Nota: “Cartilla fonética interactiva; contraseña de acceso: 5982.”
+- Atribución de ilustraciones IA.
+- Declaración de uso responsable de IA.
+- Espacio para añadir referencias futuras de diseño universal, accesibilidad y lectoescritura.
+- Aviso de derechos de autor:
+  “Los recursos se presentan con fines educativos. Antes de publicar o reutilizar imágenes, textos, sonidos o materiales externos, verifique sus licencias y atribuciones correspondientes.”
+
+INFORMACIÓN DEL PIE DE PÁGINA:
+“© 2026 Melanie Oms Castillo. Paso a Paso: Leo Puerto Rico.”
+“Proyecto Final — EDU 685 Diseño web para la educación | Universidad del Sagrado Corazón.”
+“Ilustraciones creadas con inteligencia artificial para este recurso educativo.”
+“Las herramientas de inteligencia artificial se utilizaron como apoyo para la ideación, generación inicial de código e ilustraciones. El contenido pedagógico, las decisiones de diseño, la selección de recursos, la revisión de accesibilidad y la validación final corresponden a Melanie Oms Castillo.”
+
+ENTREGABLES TÉCNICOS:
+- Crear la página completa y funcional.
+- Usar componentes claros y editables.
+- Incluir datos de ejemplo editables en Modo maestra.
+- Usar localStorage para progreso, ajustes y registros.
+- Crear exportación local CSV para el registro de observación.
+- Incluir una vista de impresión para la guía de maestra/familia y el resumen de progreso.
+- Crear un mapa de sitio visual dentro de la sección de créditos o para la maestra.
+- Preparar el proyecto para sincronizarse con GitHub y publicarse en GitHub Pages.
+- No publicar ni conectar dominio sin confirmación.
+- No eliminar contenido, secciones ni requisitos de este prompt.
