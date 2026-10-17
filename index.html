@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paso a Paso: Leo Puerto Rico</title>
+  <meta name="description" content="Sonidos, sílabas, palabras y frases para aprender a leer con confianza.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Saltar al contenido principal</a>
+
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="main-nav">
+        <span class="menu-icon" aria-hidden="true">☰</span>
+        <span class="menu-text">Menú</span>
+      </button>
+      <h1 class="site-title">Paso a Paso: Leo Puerto Rico</h1>
+      <div class="header-controls">
+        <button class="btn-icon" id="btn-text-increase" title="Aumentar texto" aria-label="Aumentar tamaño del texto">A+</button>
+        <button class="btn-icon" id="btn-text-decrease" title="Reducir texto" aria-label="Reducir tamaño del texto">A−</button>
+        <button class="btn-icon" id="btn-contrast" title="Alto contraste" aria-label="Activar o desactivar alto contraste">◐</button>
+        <button class="btn-icon" id="btn-sound-toggle" title="Sonido" aria-label="Activar o desactivar el sonido" aria-pressed="true">🔊</button>
+      </div>
+    </div>
+    <nav class="main-nav" id="main-nav" aria-label="Navegación principal" hidden>
+      <ul class="nav-list">
+        <li><button class="nav-link" data-section="inicio">Inicio</button></li>
+        <li><button class="nav-link" data-section="ruta">Mi ruta de lectura</button></li>
+        <li><button class="nav-link" data-section="sonidos">Sonidos y letras</button></li>
+        <li><button class="nav-link" data-section="silabas">Sílabas</button></li>
+        <li><button class="nav-link" data-section="palabras">Palabras</button></li>
+        <li><button class="nav-link" data-section="frases">Frases</button></li>
+        <li><button class="nav-link" data-section="biblioteca">Mi biblioteca</button></li>
+        <li><button class="nav-link" data-section="cartilla">Cartilla fonética</button></li>
+        <li><button class="nav-link" data-section="maestra">Para la maestra y familia</button></li>
+        <li><button class="nav-link" data-section="progreso">Mi progreso</button></li>
+        <li><button class="nav-link" data-section="accesibilidad">Accesibilidad</button></li>
+        <li><button class="nav-link" data-section="creditos">Créditos y referencias</button></li>
+      </ul>
+    </nav>
+    <p class="section-indicator" id="section-indicator" aria-live="polite">Inicio</p>
+  </header>
+
+  <main id="main-content" class="main-content">
+
+    <!-- ============ INICIO ============ -->
+    <section id="inicio" class="page-section active" aria-labelledby="inicio-title">
+      <h2 id="inicio-title" class="section-title">Paso a Paso: Leo Puerto Rico</h2>
+      <p class="subtitle">Sonidos, sílabas, palabras y frases para aprender a leer con confianza.</p>
+      <div class="welcome-box">
+        <p>Aquí aprendemos paso a paso. Podemos mirar, escuchar, practicar y volver a intentarlo todas las veces que necesitemos.</p>
+      </div>
+      <div class="hero-actions">
+        <button class="btn-primary btn-large" data-nav="ruta">Comenzar mi ruta de lectura</button>
+        <button class="btn-secondary btn-large" id="btn-welcome-audio">🔊 Escuchar bienvenida</button>
+      </div>
+      <div class="transcript" id="welcome-transcript" hidden>
+        <p><strong>Transcripción:</strong> Bienvenida a Paso a Paso: Leo Puerto Rico. Aquí aprendemos paso a paso. Podemos mirar, escuchar, practicar y volver a intentarlo todas las veces que necesitemos.</p>
+      </div>
+      <div class="card-grid" role="navigation" aria-label="Actividades principales">
+        <article class="nav-card" tabindex="0" data-nav="sonidos">
+          <span class="card-icon" aria-hidden="true">🔤</span>
+          <h3>Sonidos y letras</h3>
+          <p>Escucho y miro los sonidos de las letras.</p>
+        </article>
+        <article class="nav-card" tabindex="0" data-nav="silabas">
+          <span class="card-icon" aria-hidden="true">🧩</span>
+          <h3>Sílabas</h3>
+          <p>Combino consonantes y vocales.</p>
+        </article>
+        <article class="nav-card" tabindex="0" data-nav="palabras">
+          <span class="card-icon" aria-hidden="true">📖</span>
+          <h3>Palabras</h3>
+          <p>Leo palabras con imágenes.</p>
+        </article>
+        <article class="nav-card" tabindex="0" data-nav="frases">
+          <span class="card-icon" aria-hidden="true">✏️</span>
+          <h3>Frases</h3>
+          <p>Leo frases cortas y respondo.</p>
+        </article>
+      </div>
+      <p class="positive-note">Puedes practicar con calma. Cada intento es parte del aprendizaje.</p>
+      <div class="illustration-box">
+        <div class="illustration coqui-scene" role="img" aria-label="Ilustración de un coquí sobre una hoja verde en un entorno natural puertorriqueño con luna y estrellas.">
+          <span class="coqui" aria-hidden="true">🐸</span>
+          <span class="moon" aria-hidden="true">🌙</span>
+        </div>
+        <p class="illustration-caption">Ilustración: coquí en un entorno natural puertorriqueño. Las ilustraciones presentan elementos culturales puertorriqueños y fueron creadas con inteligencia artificial para este recurso educativo.</p>
+      </div>
+    </section>
+
+    <!-- ============ MI RUTA DE LECTURA ============ -->
+    <section id="ruta" class="page-section" aria-labelledby="ruta-title">
+      <h2 id="ruta-title" class="section-title">Mi ruta de lectura</h2>
+      <p class="section-intro">Esta es tu ruta paso a paso. Cada paso te lleva a una actividad. Puedes practicar todas las veces que quieras.</p>
+      <ol class="ruta-list" id="ruta-list"></ol>
+      <p class="privacy-note">Tu progreso se guarda solamente en este dispositivo. No se recopilan nombres, diagnósticos ni información personal.</p>
+    </section>
+
+    <!-- ============ SONIDOS Y LETRAS ============ -->
+    <section id="sonidos" class="page-section" aria-labelledby="sonidos-title">
+      <h2 id="sonidos-title" class="section-title">Sonidos y letras</h2>
+      <p class="section-intro">Escucha el sonido de cada letra. Mira la letra y la imagen. Luego practica seleccionando la respuesta correcta.</p>
+      <div class="group-selector" id="sonidos-groups" role="tablist" aria-label="Grupos de consonantes"></div>
+      <div class="letter-cards" id="sonidos-cards" aria-live="polite"></div>
+      <div class="activity-area" id="sonidos-activity"></div>
+    </section>
+
+    <!-- ============ SÍLABAS ============ -->
+    <section id="silabas" class="page-section" aria-labelledby="silabas-title">
+      <h2 id="silabas-title" class="section-title">Sílabas</h2>
+      <p class="section-intro">Combina consonantes y vocales para formar sílabas. Escucha cada sílaba y practica.</p>
+      <div class="activity-tabs" role="tablist" aria-label="Actividades de sílabas">
+        <button class="tab-btn active" data-silaba-tab="construir" role="tab" aria-selected="true">Construyo una sílaba</button>
+        <button class="tab-btn" data-silaba-tab="completar" role="tab" aria-selected="false">Completa la palabra</button>
+        <button class="tab-btn" data-silaba-tab="encontrar" role="tab" aria-selected="false">Encuentra la sílaba</button>
+      </div>
+      <div class="activity-area" id="silabas-activity"></div>
+    </section>
+
+    <!-- ============ PALABRAS ============ -->
+    <section id="palabras" class="page-section" aria-labelledby="palabras-title">
+      <h2 id="palabras-title" class="section-title">Palabras</h2>
+      <p class="section-intro">Lee palabras cortas con imágenes. Escucha, practica y vuelve a intentar.</p>
+      <div class="level-selector" id="palabras-levels" role="tablist" aria-label="Niveles de palabras"></div>
+      <div class="word-display" id="palabras-display"></div>
+      <div class="activity-tabs" role="tablist" aria-label="Actividades de palabras">
+        <button class="tab-btn active" data-palabra-tab="une" role="tab" aria-selected="true">Une palabra e imagen</button>
+        <button class="tab-btn" data-palabra-tab="ordena" role="tab" aria-selected="false">Ordena las sílabas</button>
+        <button class="tab-btn" data-palabra-tab="escucha" role="tab" aria-selected="false">Escucha y selecciona</button>
+        <button class="tab-btn" data-palabra-tab="lee" role="tab" aria-selected="false">Lee la palabra</button>
+      </div>
+      <div class="activity-area" id="palabras-activity"></div>
+    </section>
+
+    <!-- ============ FRASES ============ -->
+    <section id="frases" class="page-section" aria-labelledby="frases-title">
+      <h2 id="frases-title" class="section-title">Frases</h2>
+      <p class="section-intro">Lee una frase corta. Mira la imagen. Luego responde la pregunta de comprensión.</p>
+      <div class="activity-area" id="frases-activity"></div>
+    </section>
+
+    <!-- ============ MI BIBLIOTECA ============ -->
+    <section id="biblioteca" class="page-section" aria-labelledby="biblioteca-title">
+      <h2 id="biblioteca-title" class="section-title">Mi biblioteca</h2>
+      <p class="section-intro">Mini-libros digitales con frases cortas e imágenes. Lee paso a paso.</p>
+      <div class="book-selector" id="biblioteca-books"></div>
+      <div class="book-reader" id="biblioteca-reader"></div>
+    </section>
+
+    <!-- ============ CARTILLA FONÉTICA ============ -->
+    <section id="cartilla" class="page-section" aria-labelledby="cartilla-title">
+      <h2 id="cartilla-title" class="section-title">Cartilla fonética interactiva</h2>
+      <div class="cartilla-card">
+        <p>Puedes usar esta cartilla junto con las actividades de la página para practicar sonidos, letras, sílabas y palabras con apoyo visual.</p>
+        <a href="https://heyzine.com/flip-book/c7b91e911f.html" target="_blank" rel="noopener noreferrer" class="btn-primary btn-large">Abrir cartilla fonética interactiva</a>
+        <p class="cartilla-password">Contraseña de acceso: <strong>5982</strong></p>
+        <p class="cartilla-notice">Se abre en una pestaña nueva. Para apoyar el acceso universal, se recomienda disponer también de una versión descargable o alternativa accesible.</p>
+      </div>
+    </section>
+
+    <!-- ============ PARA LA MAESTRA Y FAMILIA ============ -->
+    <section id="maestra" class="page-section" aria-labelledby="maestra-title">
+      <h2 id="maestra-title" class="section-title">Para la maestra y familia</h2>
+
+      <article class="guide-block">
+        <h3>¿Para quién es este recurso?</h3>
+        <p>Este recurso está dirigido a estudiantes de tercero a quinto grado que requieren una práctica estructurada y accesible de lectura inicial. Puede utilizarse con estudiantes con discapacidad intelectual u otras necesidades de apoyo, siempre considerando sus fortalezas, su sistema de comunicación, sus metas educativas y los apoyos establecidos.</p>
+      </article>
+
+      <article class="guide-block">
+        <h3>Cómo usar la página en 10 minutos</h3>
+        <ol class="guide-list">
+          <li>Elegir una habilidad.</li>
+          <li>Presentar una actividad.</li>
+          <li>Modelar primero.</li>
+          <li>Practicar juntos.</li>
+          <li>Permitir respuesta.</li>
+          <li>Ofrecer retroalimentación positiva.</li>
+          <li>Repetir si es necesario.</li>
+          <li>Cerrar con éxito.</li>
+        </ol>
+      </article>
+
+      <article class="guide-block">
+        <h3>Adaptaciones posibles</h3>
+        <ul class="guide-list">
+          <li>Reducir opciones a dos.</li>
+          <li>Presentar una actividad a la vez.</li>
+          <li>Usar señalamiento, respuesta verbal, selección con mouse, pantalla táctil o comunicación aumentativa.</li>
+          <li>Repetir audio y modelo.</li>
+          <li>Aumentar tamaño del texto.</li>
+          <li>Activar alto contraste.</li>
+          <li>Usar audífonos si el estudiante los tolera.</li>
+          <li>Ofrecer pausas.</li>
+          <li>Seleccionar menos sílabas o palabras.</li>
+          <li>Ajustar la velocidad de la voz.</li>
+        </ul>
+      </article>
+
+      <article class="guide-block">
+        <h3>Registro de observación</h3>
+        <p class="privacy-note">No escriba nombres completos, diagnósticos ni información confidencial del estudiante.</p>
+        <form id="observation-form" class="observation-form">
+          <div class="form-row">
+            <label for="obs-date">Fecha</label>
+            <input type="date" id="obs-date" required>
+          </div>
+          <div class="form-row">
+            <label for="obs-skill">Habilidad practicada</label>
+            <select id="obs-skill">
+              <option value="Sonidos">Sonidos</option>
+              <option value="Sílabas">Sílabas</option>
+              <option value="Palabras">Palabras</option>
+              <option value="Frases">Frases</option>
+              <option value="Biblioteca">Biblioteca</option>
+            </select>
+          </div>
+          <div class="form-row">
+            <label for="obs-support">Nivel de apoyo</label>
+            <select id="obs-support">
+              <option value="Independiente">Independiente</option>
+              <option value="Visual">Visual</option>
+              <option value="Auditivo">Auditivo</option>
+              <option value="Verbal">Verbal</option>
+              <option value="Modelado">Modelado</option>
+            </select>
+          </div>
+          <div class="form-row">
+            <label for="obs-response">Respuesta observada</label>
+            <input type="text" id="obs-response" placeholder="Ej: Identificó la letra M correctamente">
+          </div>
+          <div class="form-row">
+            <label for="obs-next">Próximo paso</label>
+            <input type="text" id="obs-next" placeholder="Ej: Practicar sílabas con M">
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn-primary">Guardar en este dispositivo</button>
+            <button type="button" class="btn-secondary" id="btn-export-obs">Exportar resumen</button>
+            <button type="button" class="btn-secondary" id="btn-print-guide">Imprimir guía</button>
+          </div>
+        </form>
+        <div id="observation-list" class="observation-list"></div>
+      </article>
+
+      <article class="guide-block">
+        <h3>Limitaciones y uso responsable</h3>
+        <p>Este recurso complementa la instrucción directa y debe ajustarse a las necesidades de cada estudiante. No reemplaza la evaluación educativa, los servicios especializados, el Programa Educativo Individualizado ni el juicio profesional del personal docente y de las familias.</p>
+      </article>
+
+      <article class="guide-block">
+        <h3>Modo maestra</h3>
+        <p class="teacher-warning">⚠️ Modo maestra: revise todo contenido antes de utilizarlo con estudiantes. No ingrese información confidencial.</p>
+        <button class="btn-primary" id="btn-teacher-mode">Activar Modo maestra</button>
+        <div id="teacher-panel" class="teacher-panel" hidden>
+          <h4>Controles del Modo maestra</h4>
+          <div class="teacher-controls">
+            <fieldset>
+              <legend>Grupos de consonantes</legend>
+              <div id="teacher-group-toggles"></div>
+            </fieldset>
+            <fieldset>
+              <legend>Opciones de respuesta</legend>
+              <label for="teacher-max-options">Máximo de opciones</label>
+              <select id="teacher-max-options">
+                <option value="2">2 opciones</option>
+                <option value="3" selected>3 opciones</option>
+              </select>
+            </fieldset>
+          </div>
+          <div class="teacher-actions">
+            <button class="btn-secondary" id="btn-export-progress">Exportar progreso (CSV)</button>
+            <button class="btn-secondary" id="btn-clear-progress-teacher">Borrar progreso</button>
+            <button class="btn-secondary" id="btn-reset-content">Restablecer contenido de ejemplo</button>
+          </div>
+          <div class="teacher-progress" id="teacher-progress-view"></div>
+        </div>
+      </article>
+    </section>
+
+    <!-- ============ MI PROGRESO ============ -->
+    <section id="progreso" class="page-section" aria-labelledby="progreso-title">
+      <h2 id="progreso-title" class="section-title">Mi progreso</h2>
+      <p class="section-intro">Aquí puedes ver cuánto has practicado. Cada esfuerzo cuenta.</p>
+      <div class="progress-grid" id="progress-grid"></div>
+      <p class="privacy-note">Tu progreso se guarda solamente en este dispositivo. No se recopilan nombres, diagnósticos ni información personal.</p>
+      <div class="progress-actions">
+        <button class="btn-primary" data-nav="sonidos">Practicar otra vez</button>
+        <button class="btn-secondary" id="btn-clear-progress">Borrar mi progreso de este dispositivo</button>
+        <button class="btn-secondary" id="btn-print-progress">Imprimir resumen</button>
+      </div>
+    </section>
+
+    <!-- ============ ACCESIBILIDAD ============ -->
+    <section id="accesibilidad" class="page-section" aria-labelledby="acc-title">
+      <h2 id="acc-title" class="section-title">Accesibilidad</h2>
+      <div class="acc-declaration">
+        <p>Paso a Paso: Leo Puerto Rico ha sido diseñado para apoyar una experiencia de aprendizaje accesible, clara y flexible. El sitio incluye navegación por teclado, estructura semántica, texto alternativo para imágenes, controles para ajustar el tamaño del texto, alto contraste, instrucciones visibles, transcripciones de audio y opciones para repetir actividades. Las actividades se presentan paso a paso, con un máximo de tres opciones por pantalla y sin presión de tiempo.</p>
+        <p>Reconocemos que cada estudiante aprende de manera diferente. Este recurso debe adaptarse a las fortalezas, necesidades, idioma, sistema de comunicación y apoyos establecidos para cada estudiante. La observación docente, la colaboración con las familias y los ajustes individualizados son esenciales para su uso responsable.</p>
+      </div>
+      <h3>Herramientas de accesibilidad</h3>
+      <ul class="acc-tools-list">
+        <li><span aria-hidden="true">🔍</span> Aumentar texto</li>
+        <li><span aria-hidden="true">🔍</span> Reducir texto</li>
+        <li><span aria-hidden="true">◐</span> Alto contraste</li>
+        <li><span aria-hidden="true">⌨️</span> Navegación por teclado</li>
+        <li><span aria-hidden="true">📝</span> Instrucciones escritas</li>
+        <li><span aria-hidden="true">🔊</span> Audio opcional con transcripción</li>
+        <li><span aria-hidden="true">🔄</span> Actividades repetibles</li>
+        <li><span aria-hidden="true">📱</span> Diseño adaptable</li>
+        <li><span aria-hidden="true">👩‍🏫</span> Modo maestra</li>
+        <li><span aria-hidden="true">🗑️</span> Borrar datos locales</li>
+      </ul>
+      <div class="voice-controls">
+        <h3>Control de voz</h3>
+        <label for="voice-speed">Velocidad de lectura</label>
+        <select id="voice-speed">
+          <option value="0.7">Lenta</option>
+          <option value="0.9" selected>Media</option>
+          <option value="1.0">Normal</option>
+        </select>
+        <p id="voice-status" aria-live="polite"></p>
+      </div>
+    </section>
+
+    <!-- ============ CRÉDITOS Y REFERENCIAS ============ -->
+    <section id="creditos" class="page-section" aria-labelledby="creditos-title">
+      <h2 id="creditos-title" class="section-title">Créditos y referencias</h2>
+      <div class="credits-box">
+        <h3>Paso a Paso: Leo Puerto Rico</h3>
+        <dl class="credits-list">
+          <dt>Autora:</dt><dd>Melanie Oms Castillo</dd>
+          <dt>Programa:</dt><dd>Programa Graduado en Educación</dd>
+          <dt>Universidad:</dt><dd>Universidad del Sagrado Corazón</dd>
+          <dt>Curso:</dt><dd>EDU 685 — Diseño web para la educación</dd>
+          <dt>Sección:</dt><dd>[PENDIENTE: insertar sección del curso]</dd>
+          <dt>Profesora:</dt><dd>[PENDIENTE: insertar nombre de profesora]</dd>
+          <dt>Fecha:</dt><dd>[PENDIENTE: insertar día/mes/año]</dd>
+          <dt>Proyecto:</dt><dd>Proyecto Final — Proyecto de Desarrollo de Página Web Educativa</dd>
+        </dl>
+        <h3>Cartilla fonética</h3>
+        <p><a href="https://heyzine.com/flip-book/c7b91e911f.html" target="_blank" rel="noopener noreferrer">Cartilla fonética interactiva</a> — Contraseña de acceso: <strong>5982</strong></p>
+        <h3>Atribución de ilustraciones</h3>
+        <p>Ilustraciones creadas con inteligencia artificial para este recurso educativo.</p>
+        <h3>Declaración de uso responsable de IA</h3>
+        <p>Las herramientas de inteligencia artificial se utilizaron como apoyo para la ideación, generación inicial de código e ilustraciones. El contenido pedagógico, las decisiones de diseño, la selección de recursos, la revisión de accesibilidad y la validación final corresponden a Melanie Oms Castillo.</p>
+        <h3>Espacio para referencias futuras</h3>
+        <p>[Espacio para añadir referencias de diseño universal, accesibilidad y lectoescritura]</p>
+        <h3>Mapa del sitio</h3>
+        <ul class="sitemap">
+          <li>Inicio</li>
+          <li>Mi ruta de lectura</li>
+          <li>Sonidos y letras</li>
+          <li>Sílabas</li>
+          <li>Palabras</li>
+          <li>Frases</li>
+          <li>Mi biblioteca</li>
+          <li>Cartilla fonética</li>
+          <li>Para la maestra y familia</li>
+          <li>Mi progreso</li>
+          <li>Accesibilidad</li>
+          <li>Créditos y referencias</li>
+        </ul>
+        <h3>Derechos de autor</h3>
+        <p>Los recursos se presentan con fines educativos. Antes de publicar o reutilizar imágenes, textos, sonidos o materiales externos, verifique sus licencias y atribuciones correspondientes.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <button class="back-to-top" id="back-to-top" aria-label="Volver al inicio de la página">↑ Volver al inicio</button>
+
+  <footer class="site-footer">
+    <p>© 2026 Melanie Oms Castillo. Paso a Paso: Leo Puerto Rico.</p>
+    <p>Proyecto Final — EDU 685 Diseño web para la educación | Universidad del Sagrado Corazón.</p>
+    <p>Ilustraciones creadas con inteligencia artificial para este recurso educativo.</p>
+    <p>Las herramientas de inteligencia artificial se utilizaron como apoyo para la ideación, generación inicial de código e ilustraciones. El contenido pedagógico, las decisiones de diseño, la selección de recursos, la revisión de accesibilidad y la validación final corresponden a Melanie Oms Castillo.</p>
+  </footer>
+
+  <div class="feedback-toast" id="feedback-toast" role="alert" aria-live="assertive" hidden></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
